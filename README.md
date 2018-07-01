@@ -1,6 +1,5 @@
 "# AngularCheat" 
 
-
-*** Routing 
+-- Routing 
 
 ng new angular-guard-app --routing
