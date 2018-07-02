@@ -10,3 +10,8 @@ ng generate module app-routing --flat --module=app
 
 
 ng g guard auth
+
+## Building reactive forms
+import form control, formbuilder and validators
+add private fb: formBuilder in constructor
+build form
